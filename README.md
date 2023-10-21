@@ -1,4 +1,4 @@
-#4150 Advanced Algorithms at the University of Utah
+# CS4150 Advanced Algorithms at the University of Utah
 This is a collection of algorithmic code I wrote to solve various scenarios using advanced Computer Science topics such as Dynamic Programming, Memoization, and Graph theory (DFS, BFS, WFS, Dijkstra's Algorithm, etc.).
 
 # MinCut-MaxFlow
