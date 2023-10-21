@@ -15,3 +15,6 @@ Like the name suggests, this creates a map of roads and intersections, then give
 
 # Friend Questing
 Given players with a certain list of quests, either to be completed alone or as a group, perform a topographical sort to find the most efficient order to complete the quests.
+
+# Minimum Spanning Trees
+Practice generating graphs and running efficient algorithmic code to find a minimum spanning tree of the graph.
